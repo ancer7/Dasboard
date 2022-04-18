@@ -1,0 +1,42 @@
+.content {
+    /* border: 1px solid black; */
+    min-height: 500;
+    padding: 0px;
+    margin-top: 30px;
+    display: "flex";
+    flex-direction: column;
+  }
+  /* .container {
+    
+    margin: 0px 10px; 
+    /* display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+  } */
+  .container {
+    /* border: 1px solid black; */
+    /* margin: 0px 10px; min-height: 400px; */
+    margin: 20px 25px;
+    display: inline-block;
+    overflow: auto;
+    width: 100%;
+    padding: 0px;
+  }
+  /* .container {
+   
+    margin: 0px 10px; 
+    display: inline-block;
+    overflow: auto;
+    padding: 0px;
+  } */
+  .textTitle {
+    margin-bottom: 5px;
+  }
+  
+  .paper {
+    margin: 40px 0px;
+  }
+  .itemGrid {
+    display: inline-block;
+  }
+  
